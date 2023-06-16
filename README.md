@@ -1,5 +1,5 @@
 ### Niranjan Kumar
-I'm Niranjan from India, and I do Responsive WebApp Development. I can work on both the front-end and the back-end of any application. In my spare time, I work on various different projects to build my skills and continue learning.
+I'm Niranjan from India, and I am a Full-Stack Developer currently working at Cosmofeed.
 
 ## Skills and Experience
 * MERN Stack
